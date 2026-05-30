@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dinesh Raya
 
-### A passionate backend developer from Nepal
+### A passionate backend developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dinesh-raya&label=Profile%20views&color=0e75b6&style=flat)
 
